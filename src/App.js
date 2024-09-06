@@ -11,10 +11,10 @@ function App() {
       <h1 className=' bg-slate-300 rounded-xl w-11/12 text-center mt-8  px-10 ml-16 py-3 text-3xl  font-bold'>
         Hello, Gif Generator! 
       </h1>
-      {/* <div className="flex flex-col w-full">
+      <div className="flex flex-col w-full items-center gap-y-10 mt-7">
         <Random/>
         <Tag/>
-      </div> */}
+      </div>
       
     </div>
   );
